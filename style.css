@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background-image: url("bg.png");
+    background-image: url("public/bg.png");
     background-size: cover;
 }
 #initial{
