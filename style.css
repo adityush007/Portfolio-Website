@@ -1,3 +1,35 @@
 html{
     scroll-behavior: smooth;
 }
+body{
+    background-image: url("bg.png");
+    background-size: cover;
+}
+#initial{
+    margin-left: 50%;
+    margin-top: 10%;
+    color: wheat;
+}
+h1{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size:60px;
+}
+hr{
+    margin-left: 50%;
+    padding-bottom: 20px;
+}
+#contact{
+    margin-left: 50%;
+    color: wheat;
+    /* padding-top: 12px; */
+}
+#profile-link{
+    font-size:20px;
+    padding-right: 10px;
+    color: azure;
+    transition: all 0.3s ease-in-out 0.2s;
+}
+i:hover{
+    font-size: 25px;
+    transform: scale(1.3);
+}
